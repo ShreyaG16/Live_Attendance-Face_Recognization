@@ -1,0 +1,21 @@
+1.Download visual studio from given link
+https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16 
+Tick on "Desktop development with C++" and click on install
+2.Install libraries by opening cmd prompt and giving following commands
+	1. pip install opencv-python
+	2. pip install dlib
+	3. pip install face_recognition
+	4. pip install numpy
+	5. pip install gspread
+	6. pip install oauth2client 
+3.Use follwing drive link to download files
+https://drive.google.com/drive/folders/1u2dO1D34NL_0C4Q0CD4GfW4iz5VsWI3R?usp=sharing
+Download folder as it is and extract in C drive 
+Make sure all main file such as final.py file is in "C drive > CAPSTONE PROJECT CODE> capstone project > final.py etc"
+4.Add your photo to student list folder
+"C drive > CAPSTONE PROJECT CODE > capstone project > student list"
+5.Run final,py file with any compiler 
+Make sure your compiler is able to run python files else google it.
+6.Once final.py file is successfully run you will see encodding complete message and it will launch our software window.
+7.Press on take attendace to take attendace, once attendance is done press space bar to close camera.
+8.To view attendace press on view attendace.
